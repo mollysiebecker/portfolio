@@ -2,6 +2,9 @@
 
 Welcome! I'm Molly, a data scientist with a background in education and mathematics. This repo highlights selected projects that demonstrate my skills in data analysis, modeling, and storytelling.
 
+> **Note:** Some of my work involving school- or student-level data is not included in this public portfolio due to privacy and confidentiality requirements. I'm happy to discuss the general approach, tools used, and outcomes of these projects in interviews.
+
+
 ### 🔍 Featured Projects
 
 | Project | Description | Tools |
