@@ -1,6 +1,6 @@
 # Data Science Portfolio
 
-Welcome! I'm Molly, a data scientist with a background in education. This repo highlights selected projects that demonstrate my skills in data analysis, modeling, and storytelling.
+Welcome! I'm Molly, a data scientist with a background in education and mathematics. This repo highlights selected projects that demonstrate my skills in data analysis, modeling, and storytelling.
 
 ### 🔍 Featured Projects
 
