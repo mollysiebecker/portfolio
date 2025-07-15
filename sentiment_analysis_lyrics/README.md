@@ -27,5 +27,5 @@ Showed that artist gender had a stronger association with emotional content than
 Identified that songs by female artists contained a higher rate of emotional language and received higher classifier confidence scores
 
 ## Research Paper & Presentation
-This project was also submitted as a [research paper](sentiment_analysis_lyrics/Siebecker Capstone Final Paper.pdf) and [presentation](sentiment_analysis_lyrics/capstone presentation.pdf) for a data science capstone.
+This project was also submitted as a [research paper](./capstone_final_paper.pdf) and [presentation](./capstone_presentation.pdf) for a data science capstone.
 
