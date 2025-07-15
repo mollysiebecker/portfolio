@@ -34,6 +34,6 @@ Initial word-level sentiment scoring showed limitations, such as context-depende
 ## Collaborators
 This project was completed in collaboration with:
 
-[Marley Myrianthopoulos]
+Marley Myrianthopoulos
 
-[Molly Siebecker]
+Molly Siebecker
