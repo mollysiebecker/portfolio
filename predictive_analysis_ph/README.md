@@ -35,9 +35,13 @@ R, caret, earth, gbm, randomForest, xgboost, e1071, nnet, DMwR, summarytools, gg
 This was a group project completed in collaboration with:
 
 Banu Boopalan
+
 Jonathan Burns
+
 Daria Dubovskaia
+
 Marley Myrianthopoulos
+
 Molly Siebecker
 
 ## Reports & Output
